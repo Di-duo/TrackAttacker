@@ -17,6 +17,7 @@ HW蓝队溯源工具，可以快速处理IP信息、基本信息查询、贴吧�
 
 - Privacy - 查询基本信息泄露
   此处不做暂时，请勿用于非法信息。
+
 -Confirm Attacker - 确认是否是安全行业从业者
 <img width="1579" height="1330" alt="image" src="https://github.com/user-attachments/assets/5ac5bb12-83d3-4683-990c-4cdaef4ef56f" />
 <img width="1579" height="1330" alt="image" src="https://github.com/user-attachments/assets/fa774d79-9250-4fe6-8682-d1694d8015e1" />
