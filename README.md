@@ -1,5 +1,12 @@
 # TrackAttacker #
 HW蓝队溯源工具，可以快速处理IP信息、基本信息查询、贴吧信息查询、确认攻击者是否从事安全行业。
+# 版本迭代
+ - 2025/07/20 V1.3.1 新增"Track IP" - 同步查询威胁情报
+   基本上，v1.3.1应该就是短时间内最后的一个版本了
+   <img width="1316" height="1545" alt="image" src="https://github.com/user-attachments/assets/698be21b-4d01-4f4a-b3a3-868ff5d5b668" />
+
+ - 版本迭代其实很快，几天时间一直在迭代和添加版本
+   <img width="634" height="422" alt="image" src="https://github.com/user-attachments/assets/d39da768-dea7-49a5-a3ce-4de403ee6bf8" />
 
 # 功能
 - Track IP - 支持批量ip查询、whois、备案等查询
